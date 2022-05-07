@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/components/.works.scss"
+    ],
+    "names": [],
+    "file": ".works.min.css"
+}
